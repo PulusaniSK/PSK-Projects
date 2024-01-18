@@ -1,5 +1,5 @@
 
 # JavaScript Todo App
 
-## This is simple javascript todo app project made with html, css, js, and localstorage.
+## This is sNorma JS To Do Web project made with html, css, js, and localstorage.
 
