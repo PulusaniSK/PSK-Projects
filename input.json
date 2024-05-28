@@ -1,12 +1,5 @@
 [
-  {
-    "Name": "Akash",
-    "age": 26,
-    "birthyear": "1994"
-  },
-  {
-    "Name": "Abhay",
-    "age": 34,
-    "birthyear": "1986"
-  }
+    {"name": "Johnny", "age": 30, "city": "New York"},
+    {"name": "Anna marina", "age": 22, "city": "London"},
+    {"name": "Mike rembo", "age": 32, "city": "San Francisco"}
 ]
